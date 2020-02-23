@@ -1,0 +1,12 @@
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\bin\Debug\baby care system.exe.config
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\bin\Debug\baby care system.exe
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\bin\Debug\baby care system.pdb
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\bin\Debug\baby care system.xml
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby_care_system.Form1.resources
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby_care_system.Resources.resources
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby care system.vbproj.GenerateResource.Cache
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby care system.exe
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby care system.xml
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby care system.pdb
+c:\users\yash\documents\visual studio 2012\Projects\baby care system\baby care system\obj\Debug\baby_care_system.Form2.resources
+C:\Users\yash\Documents\Visual Studio 2012\Projects\baby care system\baby care system\obj\Debug\baby_care_system.Form3.resources
